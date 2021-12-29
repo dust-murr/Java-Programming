@@ -1,0 +1,22 @@
+Create a Class named Customer
+
+A Customer has the following data fields
+
+-First Name
+-Last Name
+-Street Address
+-City
+-State
+-Zip
+
+1) Create a default constructor and a six argument constructor
+2) Create Getters (Accessors) and Setters (Mutators) for all data fields
+3) Create a method that returns a String address as a concatenated string with line breaks
+4) In main create an object of type Customer filled with data
+5) Display the customer
+
+Example Output:
+
+Fred Jones
+15 Pine Ave
+Lincroft, NJ 07738

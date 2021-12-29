@@ -1,0 +1,14 @@
+Write a program to:
+
+Create a file name Lab_7.txt if it does not exist.
+Create the following String:  The quick brown fox jumped over the lazy dog
+Create an array from the string so each word is a separate array element
+Write the words from the array into the file using text I/O.
+Read the data back from the file and place into an array.
+Sort the array and display the words on the screen in increasing order.
+
+What do we need?
+
+-PrintWriter
+-Scanner
+-An array; perhaps an Arrays class

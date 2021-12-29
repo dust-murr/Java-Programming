@@ -1,0 +1,7 @@
+Lab_16:
+Write 20 byte values to a file called lab16.dat.
+Read the values back from the file and output to the screen in reverse order.
+
+DataOutputStreamDemo:
+If you keep reading data from a file, you will eventually hit the end. This will produce a EOFException.
+Write a program that catches the EOF error and handles it gracefully.

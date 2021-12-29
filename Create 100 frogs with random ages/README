@@ -1,0 +1,11 @@
+Create a class called Frog:
+-A frog has an age
+-Create a default constructor that sets the frog age to zero
+-Create a one argument constructor that sets the frogs age
+-Create setters and getters for age
+-Create a static variable that counts how many frogs are created
+-Create a static method that displays the number of frogs created
+-In the main create an array of 100 frogs
+-In the main fill the array with 100 frogs and give each frog a random age between 1 and 100
+-In the main calculate the average age of the frog
+-In the main display how many frogs were created

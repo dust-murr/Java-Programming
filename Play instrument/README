@@ -1,0 +1,23 @@
+Create an abstract class name Instrument that implements Comparable 
+This class has: 
+ A protected data field named price of type double 
+ A default constructor 
+ A one argument constructor 
+ Override the compareTo(Instrucment o) method and return 1, ‐1 or zero based on price 
+ Create an abstract method called play() that returns a string. 
+ 
+Create a subclass named Guitar 
+This class has: 
+ A protected data field named numberofStrings of type int. 
+ A default constructor that calls the super constructor 
+ A two argument constructor that calls the one argument super constructor 
+ Implements and Overrides the abstract method play() method. The string returned is: 
+o I'm a Guitar WaWaWaWa I have 6 strings 
+ 
+Create a subclass named Piano 
+This class has: 
+ A protected data field named numberofKeys of type int. 
+ A default constructor that calls the super constructor 
+ A two argument constructor that calls the one argument super constructor 
+ Implements and Overrides the abstract method play() method. The string returned is: 
+o I'm a Piano TinkleTinkleTinkle I have 44 keys. 

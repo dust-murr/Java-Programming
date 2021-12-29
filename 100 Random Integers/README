@@ -1,0 +1,2 @@
+You should write 100 random integers to a file (make the integers range between 1 and 100). Then read the integers from the same file into an array and sort. 
+You can sort using the Arrays class or use any sorting algorithm you prefer, once sorted display on monitor.
