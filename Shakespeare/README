@@ -1,0 +1,5 @@
+You’re given 5 text files named hamlet.txt, richard.txt, othelleo.txt, lear.txt and macbeth.txt.
+
+Each file contains one famous quote from a play.
+
+You are tasked with writing the code so that when a button is pressed the quote from that play appears in the text box and the text object on top changes to the name of the play.

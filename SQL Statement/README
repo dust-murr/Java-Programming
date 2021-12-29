@@ -1,0 +1,10 @@
+Create a class called SQLConsolePane which creates the shell of the window.
+Create a testing class called SQLConsoleDemo which creates on object of the SQLConsolePane class
+SQLConsolePane and SQLConsoleDemo should be separate .java files.
+Create a listener for each button:
+When Fire is pushed, some string is put in the text area and the text field
+When Clear is pushed, both fields clear
+
+Update the fire button listener to:
+Execute a SELECT statement and display the  results
+Execute an INSERT, UPDATE, or DELETE statement and display if successful
